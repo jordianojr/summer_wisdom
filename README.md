@@ -9,7 +9,7 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jordianojr/summer_wisdom
    cd multi-keeper
 
 2. **Install Dependencies::**
